@@ -1,0 +1,4 @@
+feedback_sentiment,customer_count,average_satisfaction,median_satisfaction
+Negative,1480,4.16,4.0
+Neutral,8346,4.16,4.0
+Positive,38897,4.16,4.0

@@ -1,0 +1,3 @@
+customer_cluster,customer_count,transaction_count,total_transaction_amount,average_transaction_amount,median_transaction_amount,failed_transaction_count,credit_utilization_ratio,satisfaction_score,support_tickets_count,savings_account,auto_savings_enabled,credit_card,personal_loan,investment_account,insurance_product,bill_payment_user
+0,18263,67.95,277963181.7,3536210.24,2743566.89,0.2,,4.12,0.99,0.7,0.4,0.0,0.26,0.36,0.18,0.7
+1,30460,62.97,245187392.69,3582024.33,2770103.38,0.2,0.29,4.19,1.0,0.84,0.4,1.0,0.35,0.47,0.23,0.7

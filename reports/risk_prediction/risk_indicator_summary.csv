@@ -1,0 +1,6 @@
+indicator,customers_flagged,percentage
+high_credit_utilization,314,0.64
+failed_transaction_flag,8818,18.1
+low_satisfaction_flag,4591,9.42
+high_support_tickets,3915,8.04
+low_ticket_resolution,22215,45.59
